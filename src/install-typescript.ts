@@ -1,3 +1,2 @@
-let message:string="Hello Typescript!"
-console.log(message)
-console.log({message})
+let message:string="Hello, Ts-Node!";
+console.log({message});
